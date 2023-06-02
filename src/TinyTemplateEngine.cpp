@@ -70,7 +70,7 @@ class LineTraverser {
         virtual void traverse(
             const TinyTemplateEngine::Line& line
         ) {
-            const size_t MAX_INDEX_LEN = 5;
+            const int MAX_INDEX_LEN = 5;
             if (! *line.text) return;
             bool insideBrackets = false;
             bool buckHit = false;
