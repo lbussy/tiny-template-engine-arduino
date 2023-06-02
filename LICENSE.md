@@ -2,7 +2,7 @@ The MIT License (MIT)
 =====================
 
 Original: Copyright © 2019 full-stack-ex
-Current Work: Copyright © 2023 flbussy
+Current Work: Copyright © 2023 lbussy
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation

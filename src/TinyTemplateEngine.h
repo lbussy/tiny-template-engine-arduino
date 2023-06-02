@@ -1,7 +1,8 @@
 /*
 MIT License
 
-Copyright (c) 2019 full-stack-ex
+Original: Copyright © 2019 full-stack-ex
+Current Work: Copyright © 2023 lbussy
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
