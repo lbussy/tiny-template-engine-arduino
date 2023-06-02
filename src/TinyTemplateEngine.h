@@ -70,10 +70,9 @@ class TinyTemplateEngine {
         void end();
 
     private:
-
-        const char* const* _values;
-        char* _buffer;
         Reader& _reader;
+        char* _buffer;
+        const char* const* _values;
 
         void reset();
 
