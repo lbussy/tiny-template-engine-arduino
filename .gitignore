@@ -1,3 +1,21 @@
+# PlatformIO
+.pio
+.pioenvs
+.piolibdeps
+.vscode
+*.code-workspace
+src/*.ino
+src/secret.h
+src/main.*
+src/*.ino
+
+# Mac files
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+*.DS_Store
+
 # Prerequisites
 *.d
 
@@ -30,8 +48,3 @@
 *.exe
 *.out
 *.app
-*.bin
-
-# Development environment
-.vscode
-
